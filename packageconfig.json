@@ -4,7 +4,7 @@
 
 
     "packageTitle":       "Cloudmersive Multi-Threat Scan API Client",
-    "packageDescription": "Cloudmersive Multi-Threat Scan allows you to scan files, URLs, and webistes for viruses, malware, trojans, ransomware, spyware, and many other types of threats.  Multi-factor scanning across many delivery methods including polymorphic and multipartite.  Scanning supports files, archives, and recursive file formats.",
+    "packageDescription": "Cloudmersive Multi-Threat Scan allows you to scan files, URLs, and text for multiptle types of threats including viruses, malware, trojans, ransomware, spyware, ai content, fraud, spam, phishing, not-safe-for-work, and many other types of threats.  Multi-factor scanning across many delivery methods including polymorphic and multipartite.  Scanning supports files, archives, and recursive file formats.",
     "packageAuthors":     "Cloudmersive LLC",
     "packageCompany":     "Cloudmersive LLC",
     "packageProjectUrl":  "https://cloudmersive.com/multi-threat-scan-api",
